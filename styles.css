@@ -1,0 +1,17 @@
+.about-heading{
+    font-size: 90px;
+    text-align: center;
+    color: black;
+}
+hr{
+
+ border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: black;
+  width:35%
+      
+}
+body{
+    background-color: #d3e4e4;
+}
